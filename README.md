@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="link-ke-banner-github-kamu.png" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/Kamaljaya32/Kamaljaya32/blob/main/Banner%20Kamal%20Fix.png" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there 👋, I'm Muhammad Kamal Jaya</h1>
@@ -13,7 +13,6 @@
 I am a final-year Informatics Engineering student at Universitas Hasanuddin with a strong passion for Artificial Intelligence, Computer Vision, and Data Engineering. I enjoy building systems that can see, understand, and process data efficiently.
 
 - 💻 **Currently intern at Satu Data Unhas:** Designing and building robust data pipelines utilizing Python, MageAI, ClickHouse, and PostgreSQL/MySQL to streamline data extraction, transformation, and loading (ETL) processes.
-- 🔭 **Currently researching:** Conducting a comparative analysis of CNN, ResNet50, and Vision Transformer algorithms for post-disaster infrastructure damage classification, incorporating Explainable AI (XAI) for my final year project.
 - 🔍 **Currently exploring:** Advanced applications of AI, particularly in Computer Vision, and scalable Data Engineering architectures.
 - 💬 **Ask me about:** Python, Machine Learning, Deep Learning, Computer Vision, and how to build efficient data pipelines.
 
@@ -22,7 +21,7 @@ I am a final-year Informatics Engineering student at Universitas Hasanuddin with
 ## 🛠️ Skills & Tech Stack
 
 **Data Engineering:**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Mage_AI-805DEB?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
@@ -32,7 +31,7 @@ I am a final-year Informatics Engineering student at Universitas Hasanuddin with
 </p>
 
 **AI & Computer Vision:**
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
@@ -58,7 +57,7 @@ I am a final-year Informatics Engineering student at Universitas Hasanuddin with
 
 ## 📫 Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammadkamaljaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
