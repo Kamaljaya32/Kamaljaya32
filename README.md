@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kamaljaya32/Kamaljaya32/blob/main/Banner%20Kamal%20Fix.png" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/Kamaljaya32/Kamaljaya32/blob/main/Banner%20Kamal%20Fix-2.png" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there 👋, I'm Muhammad Kamal Jaya</h1>
