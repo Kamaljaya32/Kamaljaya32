@@ -50,7 +50,7 @@ I am a final-year Informatics Engineering student at Universitas Hasanuddin with
 ## ⚡ Fun Facts
 
 - 🏕️ While my focus is on AI and Data, I’ve also built a digital product catalog website to help local businesses (UMKM) during my Kuliah Kerja Nyata (KKN) in Desa Lamatti Riattang.
-- 🎮 I joined the Coder Institute HMIF FT-UH organization in the Game Division, where I successfully built a game titled "Against the Invaders" as my final project.
+- 🎮 I joined the Coder Institute HMIF FT-UH organization in the Game Division, where we successfully built a game titled "Against the Invaders" as our final project.
 
 <br/>
 
